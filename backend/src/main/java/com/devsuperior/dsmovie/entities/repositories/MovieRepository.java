@@ -1,4 +1,4 @@
-package com.devsuperior.dsmovie.repositories;
+package com.devsuperior.dsmovie.entities.repositories;
 
 import com.devsuperior.dsmovie.entities.Movie;
 import org.springframework.data.jpa.repository.JpaRepository;
