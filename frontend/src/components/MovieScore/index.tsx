@@ -1,4 +1,3 @@
-import { type } from "@testing-library/user-event/dist/type";
 import MovieSarts from "components/MovieStars";
 import './styles.css';
 
